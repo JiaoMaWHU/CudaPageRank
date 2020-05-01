@@ -1,2 +1,2 @@
-power/output
+power/output/*
 power/*.o
