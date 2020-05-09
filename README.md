@@ -10,4 +10,6 @@ To run our implementation (facilitated version), please follow the instructions 
 + Excute the script: `./run.sh`.
 + Then, you will get the output in the `power/output` folder. 
 
+Test Criteria: if the algorithm terminates in a reasonable time, and the end differece is smaller than the requirement (e.g. 1e-4), the algorithm is successful.
+
 If there is any problem, feel free to reach us: "jinxin.ma@utexas.edu".
